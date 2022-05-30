@@ -4,8 +4,8 @@ revision: '00001'
 annotations:
   579251962ff1402ab7f9b77c5584cdfd:
     parts: {}
+    work_id: N3800
     span:
-    - vol: 47
+    - base: bb3f
       start: 0
       end: 1785
-    work_id: N3800
